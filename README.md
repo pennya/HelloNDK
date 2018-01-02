@@ -1,3 +1,10 @@
+HelloNDK
+============
+This is simple sameple to use NDK.
+
+
+License
+============
 Copyright 2017 JI HOON KIM
 
 This program is free software: you can redistribute it and/or modify
